@@ -4,7 +4,7 @@
 
 ### Master code
 
-: Master code bridges message between Matrix-odas code and DeepSpeech. 후에 USB연결 감지 및 데이터베이스와의 연동부분 구현이 필요함
+: Master code bridges message between Matrix-odas code and DeepSpeech. USB detection and DB synchronization will be implemented later
 
 - master/server.cpp
 
