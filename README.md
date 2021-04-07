@@ -7,6 +7,10 @@
 # Sound localization model
 ![system_architecture](soundnet.png?raw=true "Title")
 
+## Dataset for sound localization model
+![dataset](data_format.png?raw=true "Title")
+![mike_array](mike_array.png?raw=true "Title")
+
 # Trigger word detection
 ![system_architecture](trigger_detection.png?raw=true "Title")
 
