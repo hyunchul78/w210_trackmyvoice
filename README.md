@@ -1,6 +1,18 @@
 # w210_trackmyvoice
-
 ![track my voice](smart_table.png?raw=true "Title")
+
+# System architecture
+![system_architecture](system_arch.png?raw=true "Title")
+
+# Sound localization model
+![system_architecture](soundnet.png?raw=true "Title")
+
+# Trigger word detection
+![system_architecture](trigger_detection.png?raw=true "Title")
+
+## Data augmentation
+![Data augmentation](data_augmentation.png?raw=true "Title")
+
 
 ## The latest system control source code and the installation process is in the 20210324 folder.
 
