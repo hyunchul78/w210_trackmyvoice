@@ -1,6 +1,6 @@
 # w210_trackmyvoice
 
-![track my voice](relative/path/to/smart_table.png?raw=true "Title")
+![track my voice](smart_table.png?raw=true "Title")
 
 ## The latest system control source code and the installation process is in the 20210324 folder.
 
