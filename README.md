@@ -11,7 +11,7 @@
 ![dataset](data_format.png?raw=true "Title")
 ![mike_array](mike_array.png?raw=true "Title")
 ## Dataset link 
-[Train data set link ]: https://drive.google.com/drive/folders/1bWNAI3csZ_9yNn1pFxO_MoVHFRVqEDEp?usp=sharing
+[Train data set link ]: https://drive.google.com/drive/folders/1bWNAI3csZ_9yNn1pFxO_MoVHFRVqEDEp?usp=sharing)
 
 
 # Trigger word detection
